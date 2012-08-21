@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, TirednessCheckerActivity!</string>
+    <string name="app_name">Tiredness Checker</string>
+    <string name="button1">Pink</string>
+    <string name="button2">Green</string>
+    <string name="button3">Yellow</string>
+    <string name="button4">Gold</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+    <string name="green">GREEN</string>
+    <string name="purple">PURPLE</string>
+    <string name="orange">ORANGE</string>
+    <string name="red">RED</string>
+    <string name="introduction_text">Welcome to the Tiredness Checker. This app checks your reaction times when you are wide awake and then allows you to repeat the tests at different times to assess your tiredness level. This level is then shared with your Facebook friends.</string>
+    
+
+</resources>
